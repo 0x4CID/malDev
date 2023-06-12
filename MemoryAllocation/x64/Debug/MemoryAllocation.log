@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\jackm\Desktop\malDev\MemoryAllocation\main.c(21,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'PVOID'
+C:\Users\jackm\Desktop\malDev\MemoryAllocation\main.c(34,9): warning C4778: 'printf' : unterminated format string '%h'
+C:\Users\jackm\Desktop\malDev\MemoryAllocation\main.c(34,81): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jackm\Desktop\malDev\MemoryAllocation\main.c(34,81): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  MemoryAllocation.vcxproj -> C:\Users\jackm\Desktop\malDev\MemoryAllocation\x64\Debug\MemoryAllocation.exe

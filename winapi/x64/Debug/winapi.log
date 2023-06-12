@@ -1,0 +1,5 @@
+﻿  createFile.c
+C:\Users\jackm\Desktop\malDev\winapi\createFile.c(15,23): warning C4047: 'function': 'LPSTR' differs in levels of indirection from 'LPSTR [1024]'
+C:\Users\jackm\Desktop\malDev\winapi\createFile.c(15,15): warning C4024: 'GetUserNameA': different types for formal and actual parameter 1
+C:\Users\jackm\Desktop\malDev\winapi\createFile.c(17,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPSTR *'
+  winapi.vcxproj -> C:\Users\jackm\Desktop\malDev\winapi\x64\Debug\winapi.exe

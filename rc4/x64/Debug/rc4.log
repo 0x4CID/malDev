@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\jackm\Desktop\malDev\rc4\main.c(20,33): warning C4098: 'rc4Init': 'void' function returning a value
+  rc4.vcxproj -> C:\Users\jackm\Desktop\malDev\rc4\x64\Debug\rc4.exe

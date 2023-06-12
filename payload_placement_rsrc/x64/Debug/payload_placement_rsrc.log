@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\jackm\Desktop\malDev\payload_placement_rsrc\main.c(34,26): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\payload_placement_rsrc\main.c(40,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'SIZE_T'
+C:\Users\jackm\Desktop\malDev\payload_placement_rsrc\main.c(40,9): message : consider using '%lld' in the format string
+C:\Users\jackm\Desktop\malDev\payload_placement_rsrc\main.c(40,9): message : consider using '%Id' in the format string
+C:\Users\jackm\Desktop\malDev\payload_placement_rsrc\main.c(40,9): message : consider using '%I64d' in the format string
+C:\Users\jackm\Desktop\malDev\payload_placement_rsrc\main.c(9,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  payload_placement_rsrc.vcxproj -> C:\Users\jackm\Desktop\malDev\payload_placement_rsrc\x64\Debug\payload_placement_rsrc.exe
