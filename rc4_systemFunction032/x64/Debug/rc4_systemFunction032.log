@@ -1,5 +1,0 @@
-﻿  main.c
-C:\Users\jackm\Desktop\malDev\rc4_systemFunction032\main.c(65,13): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
-C:\Users\jackm\Desktop\malDev\rc4_systemFunction032\main.c(65,20): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
-C:\Users\jackm\Desktop\malDev\rc4_systemFunction032\main.c(24,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
-  rc4_systemFunction032.vcxproj -> C:\Users\jackm\Desktop\malDev\rc4_systemFunction032\x64\Debug\rc4_systemFunction032.exe
