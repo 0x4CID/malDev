@@ -1,8 +1,0 @@
-﻿  main.c
-C:\Users\jackm\Desktop\malDev\xor\main.c(18,33): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
-C:\Users\jackm\Desktop\malDev\xor\main.c(65,25): warning C4047: 'function': 'PBYTE' differs in levels of indirection from 'PBYTE *'
-C:\Users\jackm\Desktop\malDev\xor\main.c(65,13): warning C4024: 'XorByiKeys': different types for formal and actual parameter 1
-C:\Users\jackm\Desktop\malDev\xor\main.c(65,45): warning C4047: 'function': 'BYTE' differs in levels of indirection from 'char [2]'
-C:\Users\jackm\Desktop\malDev\xor\main.c(65,42): warning C4024: 'XorByiKeys': different types for formal and actual parameter 3
-C:\Users\jackm\Desktop\malDev\xor\main.c(59,9): warning C4047: 'initializing': 'PBYTE *' differs in levels of indirection from 'unsigned char *'
-  xor.vcxproj -> C:\Users\jackm\Desktop\malDev\xor\x64\Debug\xor.exe
