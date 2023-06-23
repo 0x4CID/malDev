@@ -8,7 +8,7 @@ int main() {
 	PVOID pHelloWorld = GetProcAddress(hModule, "HelloWorld");
 
 	HelloWorldFunctionPointer HelloWorld = (HelloWorldFunctionPointer)pHelloWorld;
-	HelloWorld("This is Jack");
+	HelloWorld("This is a test");
 
 	return 0;
 }
