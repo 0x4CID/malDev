@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(73,11): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(74,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(76,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(80,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(183,11): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(184,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(185,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(189,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(275,55): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(301,57): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(432,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PVOID'
+C:\Users\jackm\Desktop\malDev\aes_encryption\main.c(422,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  aes_encryption.vcxproj -> C:\Users\jackm\Desktop\malDev\aes_encryption\x64\Debug\aes_encryption.exe

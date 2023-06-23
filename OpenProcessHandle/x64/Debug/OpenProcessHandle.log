@@ -1,0 +1,3 @@
+﻿  OpenProcess.c
+C:\Users\jackm\Desktop\malDev\OpenProcessHandle\OpenProcess.c(8,9): warning C4101: 'info': unreferenced local variable
+  OpenProcessHandle.vcxproj -> C:\Users\jackm\Desktop\malDev\OpenProcessHandle\x64\Debug\OpenProcessHandle.exe
